@@ -1,4 +1,4 @@
-package com.scaleorange.maps;
+package com.scaleorange.realestate;
 
 import android.content.Intent;
 import android.net.Uri;

@@ -1,11 +1,11 @@
 apply plugin: 'com.android.application'
 
 android {
-    namespace "com.scaleorange.maps"
+    namespace "com.scaleorange.realestate"
     compileSdk rootProject.ext.compileSdkVersion
 
     defaultConfig {
-    applicationId "com.scaleorange.maps"  // Change this
+    applicationId "com.scaleorange.realestate"  // Change this
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 9

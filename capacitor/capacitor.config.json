@@ -1,5 +1,5 @@
 {
-  "appId": "com.scaleorange.maps",
+  "appId": "com.scaleorange.realestate",
   "appName": "Where am I",
   "webDir": "./custom_maps/build",
   "bundledWebRuntime": false,
