@@ -1,57 +1,5 @@
 {
   "STATES": {
-    "ANDHRA PRADESH": {
-      "ANDHRA PRADESH DISTRICT HQ": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH District Hq.geojson": "v1"
-      },
-      "ANDHRA PRADESH SUB DISTRICT HQ": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH Sub District Hq.geojson": "v1"
-      },
-      "ANDHRA PRADESH_ASSEMBLY": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_ASSEMBLY.geojson": "v1"
-      },
-      "ANDHRA PRADESH_DISTRICTS": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_DISTRICTS.geojson": "v1"
-      },
-      "ANDHRA PRADESH_NEW_DISTRICTS": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_NEW_DISTRICTS.geojson": "v1"
-      },
-      "ANDHRA PRADESH_STATE": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_STATE.geojson": "v1"
-      },
-      "ANDHRA PRADESH_SUBDISTRICTS": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_SUBDISTRICTS.geojson": "v1"
-      },
-      "ANDHRA PRADESH_PARLIAMENT": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/ANDHRA PRADESH/ANDHRA PRADESH_parliament.geojson": "v1"
-      }
-    },
-    "KARNATAKA": {
-      "KARNATAKA DISTRICT HQ": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA District Hq.geojson": "v1"
-      },
-      "KARNATAKA SUB DISTRICT HQ": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA Sub District Hq.geojson": "v1"
-      },
-      "KARNATAKA_ASSEMBLY": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_ASSEMBLY.geojson": "v1"
-      },
-      "KARNATAKA_DISTRICTS": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_DISTRICTS.geojson": "v1"
-      },
-      "KARNATAKA_STATE": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_STATE.geojson": "v1"
-      },
-      "KARNATAKA_SUBDISTRICTS": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_SUBDISTRICTS.geojson": "v1"
-      },
-      "KARNATAKA_VILLAGES": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_VILLAGES.geojson": "v1"
-      },
-      "KARNATAKA_PARLIAMENT": {
-        "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/KARNATAKA/KARNATAKA_parliament.geojson": "v1"
-      }
-    },
     "TELANGANA": {
       "TELANGANA DISTRICT HQ": {
         "https://raw.githubusercontent.com/Scaleorange-Technologies/INDIAN_SHAPEFILES/main/STATES/TELANGANA/TELANGANA%20District%20Hq.geojson": "v1"
